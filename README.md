@@ -15,4 +15,4 @@ This project uses the Online Retail dataset from Kaggle:
 * Dashboard screenshot
 
 ## Dashboard
-[https://lookerstudio.google.com/reporting/01fade43-ac0f-4f06-9861-7a2f974aa827](https://lookerstudio.google.com/reporting/01fade43-ac0f-4f06-9861-7a2f974aa827)
+[[https://lookerstudio.google.com/reporting/01fade43-ac0f-4f06-9861-7a2f974aa827](https://lookerstudio.google.com/reporting/01fade43-ac0f-4f06-9861-7a2f974aa827)](https://lookerstudio.google.com/reporting/01fade43-ac0f-4f06-9861-7a2f974aa827)
